@@ -517,7 +517,7 @@ width: 7rem;
 
 
 
-@media  (max-width:1048px) {
+@media  (min-width:1048px) {
     html{
         font-size: 95%;
     }
