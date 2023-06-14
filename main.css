@@ -135,7 +135,8 @@ header{
 }
 .home-text{
 	z-index: 1000;
-	padding: 0 150px;
+	padding: 0 50px;
+	margin-top: 150px;
 	
 }
 .home-text span{
